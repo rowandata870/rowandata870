@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Rowan (@rowandata870)
 
-<!--
-**rowandata870/rowandata870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Taipei. Currently building high-throughput services and data pipelines at Tech Labs.
 
-Here are some ideas to get you started:
+### What I'm up to
+- Writing Go microservices and async APIs in Python/FastAPI.
+- Wrangling PostgreSQL schemas and caching layers with Redis.
+- Reading up on distributed systems and database internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+- **Languages:** Go, Python, SQL, Bash
+- **Backend/Data:** FastAPI, PostgreSQL, Redis
+- **Infra/Tools:** Docker, Linux, Git
+
+### Connect
+- Email: rowan.dev870@proton.me
+- Open to chats on backend design, query optimization, or good coffee in Taipei.
